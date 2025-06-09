@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burzin Wadia</h1>
-<h3 align="center">A passionate Data Analyst who is currently pursuing MS Information Management at University of Illinois Urbana Champaign</h3>
+<h3 align="center">A passionate Data Scientist who is currently working in North Chicago/h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently a **Data Scientist**
 
 - 💬 Ask me about **Approaching Data to Create Insights, Storytelling, innovation, leadership, projects**
 
